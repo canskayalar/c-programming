@@ -17,4 +17,4 @@ int main(){
     int array[5]={4,6,9,2,1};
     int uzunluk=sizeof(array)/sizeof(array[0]);
     maxmin(array,uzunluk);
-}
+}//cansu
